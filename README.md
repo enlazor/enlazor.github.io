@@ -12,3 +12,9 @@ When set as the default browser, it intercepts web links and opens them in the c
 It is compatible with macOS 13 and later.
 
 Learn more at [www.enlazor.com](https://www.enlazor.com).
+
+## [License](./LICENSE)
+
+Copyright © 2025 Julian Vilas Diaz. All rights reserved.
+
+This website and its contents may not be reproduced, distributed, or modified without prior written permission.
