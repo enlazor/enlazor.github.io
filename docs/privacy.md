@@ -1,4 +1,4 @@
-# Enlazor Privacy Policy
+# Privacy Policy
 
 **Effective date:** 17th October 2025  
 **App:** Enlazor (macOS)  
