@@ -19,7 +19,7 @@ permalink: /
 
   <!-- Change the href to the real App Store link. -->
   <p>
-    <a href="#" class="btn btn-primary" style="padding:.6rem 1rem;border-radius:.6rem;">
+    <a href="https://apps.apple.com/us/app/enlazor-link-router/id6754017771" class="btn btn-primary" style="padding:.6rem 1rem;border-radius:.6rem;">
       Get it on the Mac App Store
     </a>
   </p>
