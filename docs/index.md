@@ -7,8 +7,7 @@ permalink: /
 ---
 
 <div align="center" style="margin-top:1rem;margin-bottom:2rem;">
-  <img src="{{ "/assets/images/logo.svg" | relative_url }}" alt="Enlazor logo" width="120" height="120" style="max-width:100%;">
-  <h1 style="margin:0.8rem 0 0.2rem;">Enlazor</h1>
+  <img src="{{ "/assets/images/logo.png" | relative_url }}" alt="Enlazor logo" width="120" height="120" style="max-width:100%;">
   <p style="font-size:1.15rem;margin:0.2rem 0 1rem;opacity:.9;">
     One browser to route them all
   </p>
